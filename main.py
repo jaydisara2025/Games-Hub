@@ -5,6 +5,9 @@ import pandas as pd
 from PIL import Image, ImageDraw, ImageFont
 import os
 
+from tic_tac_toe import app
+
+
 # Page setup
 st.set_page_config(
     page_title="Puzzle Game Hub",
